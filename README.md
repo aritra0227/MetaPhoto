@@ -1,5 +1,8 @@
 # MetaPhoto
 
+https://github.com/aritra0227/MetaPhoto/assets/54759130/e1647d87-e866-43d2-8f64-d3795fdda387
+
+
 ## Description:
 Metaphoto is a fun collage application that operates by taking a primary image and a collection of candidate images as inputs. Its purpose is to arrange the candidate images in an optimal manner, using a specified loss function as a guiding factor, in order to replicate the appearance of the primary image. This process results in a visually appealing composition where the candidate images collectively emulate the main image.
 
